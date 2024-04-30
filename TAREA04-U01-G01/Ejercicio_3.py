@@ -49,4 +49,4 @@ def cifrado_permutacion_columnas():
     print(f"Mensaje cifrado: {mensaje_cifrado}")
 
 # Ejecutar el programa
-cifrado_permutacion_columnas_horizontal()
+cifrado_permutacion_columnas()
