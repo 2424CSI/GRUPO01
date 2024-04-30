@@ -1,4 +1,4 @@
-def cifrado_permutacion_columnas_horizontal():
+def cifrado_permutacion_columnas():
     # Solicitar al usuario el número de columnas n
     while True:
         try:
