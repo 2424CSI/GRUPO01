@@ -1,0 +1,35 @@
+Archivo: 1000pa.txt
+Hash SHA-256 del texto: 31c8970223e1c4ceea6692c36164ea88046bbad9b986fabd6ac36ef8da722d01
+Tiempo de lectura del archivo: 1.512289047241211 ms
+Tiempo de cifrado del archivo: 0.0 ms
+
+Archivo: 100k.txt
+Hash SHA-256 del texto: 199199d7be6c2355da3d804553c07d23c9992a66dfc7fec3108f6421babeb6c3
+Tiempo de lectura del archivo: 1.020669937133789 ms
+Tiempo de cifrado del archivo: 0.0 ms
+
+Archivo: 100pa.txt
+Hash SHA-256 del texto: 46ec41efd451cc2af8daabe549d0c2f0fcb84cdd1c30855c0c3edd8cd4f6afe9
+Tiempo de lectura del archivo: 0.0 ms
+Tiempo de cifrado del archivo: 0.0 ms
+
+Archivo: 10k.txt
+Hash SHA-256 del texto: d3b3fa0568889b8e791c18e6afd8df13f52f6993b4910b844d6407126dcfbeb0
+Tiempo de lectura del archivo: 0.0 ms
+Tiempo de cifrado del archivo: 0.0 ms
+
+Archivo: 10mill.txt
+Hash SHA-256 del texto: a47bb8fde5d605c54c5af8db2d829ef7fb47f6f8a1300ba28db192eb175c747d
+Tiempo de lectura del archivo: 26.144981384277344 ms
+Tiempo de cifrado del archivo: 8.836030960083008 ms
+
+Archivo: 10pa.txt
+Hash SHA-256 del texto: 4f5007d2d3b99195de9da3ec557cc246bb09adea17e1f48e0aed17a86640c87a
+Tiempo de lectura del archivo: 0.0 ms
+Tiempo de cifrado del archivo: 0.0 ms
+
+Archivo: 1mill.txt
+Hash SHA-256 del texto: 2383f6e369277f8336b63d30ffc39b65c0bdeaa8dba8e405832b7eeeceb3f410
+Tiempo de lectura del archivo: 5.626201629638672 ms
+Tiempo de cifrado del archivo: 0.0 ms
+
