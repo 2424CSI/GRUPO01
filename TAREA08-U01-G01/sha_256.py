@@ -8,7 +8,8 @@ def sha256(text):
 def main():
     dir_path = os.path.dirname(os.path.realpath(__file__))
     files = os.listdir(dir_path)
-    archivos_a_procesar = ['10pa.txt', '100pa.txt', '1000pa.txt', '10k.txt', '100k.txt', '1mill.txt', '10mill.txt']
+    # archivos_a_procesar = ['10pa.txt', '100pa.txt', '1000pa.txt', '10k.txt', '100k.txt', '1mill.txt', '10mill.txt']
+    archivos_a_procesar = ['10pa.txt', '100pa.txt']
 
     # Procesar cada archivo que termine en .txt
     for filename in files:
@@ -28,7 +29,9 @@ def main():
             read_time1 = (end_time1 - start_time1) * 1000  # Convertir a milisegundos
 
             print("Archivo:", filename)
+            print("Cantidad de caracteres de entrada:", len(text))
             print("Hash SHA-256 del texto:", hash)
+            print("Cantidad de caracteres resultantes:", len(hash))
 
             # Imprimir tiempo de ejecución
             print("Tiempo de lectura del archivo:", read_time, "ms")
@@ -38,7 +41,9 @@ def main():
             # Guardar los resultados en un archivo
             with open('resultados_sha_256.txt', 'a') as f:
                 f.write(f"Archivo: {filename}\n")
+                f.write(f"Cantidad de caracteres de entrada: {len(text)}\n")
                 f.write(f"Hash SHA-256 del texto: {hash}\n")
+                f.write(f"Cantidad de caracteres resultantes: {len(hash)}\n")
                 f.write(f"Tiempo de lectura del archivo: {read_time} ms\n")
                 f.write(f"Tiempo de cifrado del archivo: {read_time1} ms\n\n")
 
