@@ -1,0 +1,83 @@
+Algoritmo AES
+
+10 palabras
+
+Tiempo de cifrado: 0.0 ms
+Tiempo de descifrado: 0.0 ms
+
+100 palabras
+
+Tiempo de cifrado: 0.0 ms
+Tiempo de descifrado: 0.0 ms
+
+
+1000 palabras
+
+Tiempo de cifrado: 0.0 ms
+Tiempo de descifrado: 15.63405990600586 ms
+
+10000 palabras
+
+Tiempo de cifrado: 2.099275588989258 ms
+Tiempo de descifrado: 0.0 ms
+
+100000 palabras
+
+Tiempo de cifrado: 4.752397537231445 ms
+Tiempo de descifrado: 2.5169849395751953 ms
+
+1000000 palabras
+
+
+Tiempo de cifrado: 15.988349914550781 ms
+Tiempo de descifrado: 12.086868286132812 ms
+
+
+10000000 palabras
+
+Tiempo de cifrado: 151.76892280578613 ms
+Tiempo de descifrado: 142.7159309387207 ms
+
+
+Algoritmo  DES
+
+
+10 palabras
+
+Tiempo de cifrado: 0.0 ms
+Tiempo de descifrado: 0.0 ms
+
+100 palabras
+
+Tiempo de cifrado: 0.0 ms
+Tiempo de descifrado: 0.0 ms
+
+
+
+1000 palabras
+
+Tiempo de cifrado: 0.0 ms
+Tiempo de descifrado: 0.0 ms
+
+10000 palabras
+
+Tiempo de cifrado: 4.294157028198242 ms
+Tiempo de descifrado: 0.0 ms
+
+100000 palabras
+
+Tiempo de cifrado: 7.074832916259766 ms
+Tiempo de descifrado: 9.65428352355957 ms
+
+1000000 palabras
+
+
+Tiempo de cifrado: 60.42122840881348 ms
+Tiempo de descifrado: 62.969207763671875 ms
+
+
+10000000 palabras
+
+
+Tiempo de cifrado: 555.2897453308105 ms
+Tiempo de descifrado: 601.1288166046143 ms
