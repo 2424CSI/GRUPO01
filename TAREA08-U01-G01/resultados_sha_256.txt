@@ -1,0 +1,49 @@
+Archivo: 1000pa.txt
+Cantidad de caracteres de entrada: 6544
+Hash SHA-256 del texto: 14e231c91520ec998014cb14cd91c7c602a3544d8dc9dd16d24874c21b8c8484
+Cantidad de caracteres resultantes: 64
+Tiempo de lectura del archivo: 0.0 ms
+Tiempo de cifrado del archivo: 7.702827453613281 ms
+
+Archivo: 100k.txt
+Cantidad de caracteres de entrada: 653280
+Hash SHA-256 del texto: c7014357d988bc7b050aa40c1b01c8fe1f46e4b71559d952f1d3b5d8014aba08
+Cantidad de caracteres resultantes: 64
+Tiempo de lectura del archivo: 0.0 ms
+Tiempo de cifrado del archivo: 0.0 ms
+
+Archivo: 100pa.txt
+Cantidad de caracteres de entrada: 632
+Hash SHA-256 del texto: cd41bf59efc68aa761ed00f978f563be32ae8d2c955cbf21d348b7e2c40ff243
+Cantidad de caracteres resultantes: 64
+Tiempo de lectura del archivo: 0.39386749267578125 ms
+Tiempo de cifrado del archivo: 0.0 ms
+
+Archivo: 10k.txt
+Cantidad de caracteres de entrada: 65567
+Hash SHA-256 del texto: a5f31d332891f6be2900e4c1694d49d6d4f6bd0ad28079827ec0ee52239f6942
+Cantidad de caracteres resultantes: 64
+Tiempo de lectura del archivo: 0.0 ms
+Tiempo de cifrado del archivo: 0.0 ms
+
+Archivo: 10mill.txt
+Cantidad de caracteres de entrada: 65391927
+Hash SHA-256 del texto: 21b21da515b5d826e3e3fa5a58e105dbf815405a4d26bc68e5446dfa3345f5b2
+Cantidad de caracteres resultantes: 64
+Tiempo de lectura del archivo: 95.16096115112305 ms
+Tiempo de cifrado del archivo: 56.030988693237305 ms
+
+Archivo: 10pa.txt
+Cantidad de caracteres de entrada: 59
+Hash SHA-256 del texto: e8710930dbb3bbfe4be41ee9d9a1b8ef3781e83d239d6147280f4fe7d287c093
+Cantidad de caracteres resultantes: 64
+Tiempo de lectura del archivo: 0.0 ms
+Tiempo de cifrado del archivo: 0.0 ms
+
+Archivo: 1mill.txt
+Cantidad de caracteres de entrada: 6540471
+Hash SHA-256 del texto: 0956840ad4d07a561e1be3241ed075bd4499a789e81c6891329a567069ab392c
+Cantidad de caracteres resultantes: 64
+Tiempo de lectura del archivo: 10.180950164794922 ms
+Tiempo de cifrado del archivo: 4.395008087158203 ms
+

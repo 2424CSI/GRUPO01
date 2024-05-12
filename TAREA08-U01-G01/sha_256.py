@@ -8,8 +8,8 @@ def sha256(text):
 def main():
     dir_path = os.path.dirname(os.path.realpath(__file__))
     files = os.listdir(dir_path)
-    # archivos_a_procesar = ['10pa.txt', '100pa.txt', '1000pa.txt', '10k.txt', '100k.txt', '1mill.txt', '10mill.txt']
-    archivos_a_procesar = ['10pa.txt', '100pa.txt', '1000pa.txt']
+    archivos_a_procesar = ['10pa.txt', '100pa.txt', '1000pa.txt', '10k.txt', '100k.txt', '1mill.txt', '10mill.txt']
+    # archivos_a_procesar = ['10pa.txt', '100pa.txt', '1000pa.txt']
 
     # Procesar cada archivo que termine en .txt
     for filename in files:
