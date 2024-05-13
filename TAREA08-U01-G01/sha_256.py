@@ -28,8 +28,10 @@ def main():
             end_time1 = time.time()
             read_time1 = (end_time1 - start_time1) * 1000  # Convertir a milisegundos
 
+            text_sin_espacios = text.replace(" ", "")
+
             print("Archivo:", filename)
-            print("Cantidad de caracteres de entrada:", len(text))
+            print("Cantidad de caracteres de entrada:", len(text_sin_espacios))
             print("Hash SHA-256 del texto:", hash)
             print("Cantidad de caracteres resultantes:", len(hash))
 
@@ -41,7 +43,7 @@ def main():
             # Guardar los resultados en un archivo
             with open('resultados_sha_256.txt', 'a') as f:
                 f.write(f"Archivo: {filename}\n")
-                f.write(f"Cantidad de caracteres de entrada: {len(text)}\n")
+                f.write(f"Cantidad de caracteres de entrada: {len(text_sin_espacios)}\n")
                 f.write(f"Hash SHA-256 del texto: {hash}\n")
                 f.write(f"Cantidad de caracteres resultantes: {len(hash)}\n")
                 f.write(f"Tiempo de lectura del archivo: {read_time} ms\n")
