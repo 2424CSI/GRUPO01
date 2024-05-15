@@ -1,0 +1,55 @@
+Algoritmo Diffie-Hellman
+
+10 palabras
+
+Tiempo transcurrido en leer el texto: 0.0ms
+Tiempo en generacion de claves: 0.0ms 
+Tiempo de cifrado: 0.0 ms
+Tiempo de descifrado: 0.0 ms
+
+100 palabras
+
+Tiempo transcurrido en leer el texto: 0.0ms
+Tiempo en generacion de claves: 0.0ms 
+Tiempo de cifrado: 0.0 ms
+Tiempo de descifrado: 4.051 ms
+
+
+1000 palabras
+
+Tiempo transcurrido en leer el texto: 4.059ms
+Tiempo en generacion de claves: 0.0ms 
+Tiempo de cifrado: 3.942 ms
+Tiempo de descifrado: 8.001 ms
+
+10000 palabras
+
+Tiempo transcurrido en leer el texto: 8.198ms
+Tiempo en generacion de claves: 0.0ms 
+Tiempo de cifrado: 47.964 ms
+Tiempo de descifrado: 52.085 ms
+
+100000 palabras
+
+Tiempo transcurrido en leer el texto: 11.989ms
+Tiempo en generacion de claves: 0.0ms 
+Tiempo de cifrado: 400.21 ms
+Tiempo de descifrado: 427.25 ms
+
+1000000 palabras
+
+
+Tiempo transcurrido en leer el texto: 19.98ms
+Tiempo en generacion de claves: 0.0ms 
+Tiempo de cifrado: 4865.073 ms
+Tiempo de descifrado: 4222.507 ms
+
+
+10000000 palabras
+
+Tiempo transcurrido en leer el texto: 295.785ms
+Tiempo en generacion de claves: 0.0ms 
+Tiempo de cifrado: 41929.01 ms
+Tiempo de descifrado: 42192.27 ms
+
+
