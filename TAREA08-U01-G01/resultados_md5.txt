@@ -1,0 +1,49 @@
+Archivo: 1000pa.txt
+Cantidad de caracteres de entrada: 5545
+Hash MD5 del texto: cb21372b091956cd119353bf9eea6f79
+Cantidad de caracteres resultantes: 32
+Tiempo de lectura del archivo: 19.244670867919922 ms
+Tiempo de cifrado del archivo: 0.0 ms
+
+Archivo: 100k.txt
+Cantidad de caracteres de entrada: 553281
+Hash MD5 del texto: a1b11693ee06841e214d3af657ee19df
+Cantidad de caracteres resultantes: 32
+Tiempo de lectura del archivo: 18.700599670410156 ms
+Tiempo de cifrado del archivo: 0.0 ms
+
+Archivo: 100pa.txt
+Cantidad de caracteres de entrada: 533
+Hash MD5 del texto: 96b3efcfc84e4b873251bb19b792d8d3
+Cantidad de caracteres resultantes: 32
+Tiempo de lectura del archivo: 5.304813385009766 ms
+Tiempo de cifrado del archivo: 0.0 ms
+
+Archivo: 10k.txt
+Cantidad de caracteres de entrada: 55568
+Hash MD5 del texto: 364681a444c393940ad5346b32dc0594
+Cantidad de caracteres resultantes: 32
+Tiempo de lectura del archivo: 0.2796649932861328 ms
+Tiempo de cifrado del archivo: 0.0 ms
+
+Archivo: 10mill.txt
+Cantidad de caracteres de entrada: 55391928
+Hash MD5 del texto: 309d7e6419705a22c32cb67c60cffb58
+Cantidad de caracteres resultantes: 32
+Tiempo de lectura del archivo: 169.19898986816406 ms
+Tiempo de cifrado del archivo: 98.46782684326172 ms
+
+Archivo: 10pa.txt
+Cantidad de caracteres de entrada: 50
+Hash MD5 del texto: e0ee3cb8e044195578ed48719eac8b8e
+Cantidad de caracteres resultantes: 32
+Tiempo de lectura del archivo: 1.1870861053466797 ms
+Tiempo de cifrado del archivo: 0.0 ms
+
+Archivo: 1mill.txt
+Cantidad de caracteres de entrada: 5540472
+Hash MD5 del texto: 8729e78da2fe051718224598a5b6fa7a
+Cantidad de caracteres resultantes: 32
+Tiempo de lectura del archivo: 16.748905181884766 ms
+Tiempo de cifrado del archivo: 12.348175048828125 ms
+
