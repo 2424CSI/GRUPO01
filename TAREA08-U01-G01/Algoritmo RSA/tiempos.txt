@@ -1,0 +1,51 @@
+10 Palabras
+
+Tiempo de generación de clave: 3054.309844970703 milisegundos
+Tiempo de lectura del archivo: 0.0 milisegundos
+Tiempo de cifrado: 0.0 milisegundos
+Tiempo de descifrado: 7.007837295532227 milisegundos
+
+100 Palabras
+
+Tiempo de generación de clave: 1060.0616931915283 milisegundos
+Tiempo de lectura del archivo: 0.0 milisegundos
+Tiempo de cifrado: 1.0149478912353516 milisegundos
+Tiempo de descifrado: 23.996591567993164 milisegundos
+
+
+1000 Palabras
+
+Tiempo de generación de clave: 1084.7983360290527 milisegundos
+Tiempo de lectura del archivo: 1.0013580322265625 milisegundos
+Tiempo de cifrado: 4.0035247802734375 milisegundos
+Tiempo de descifrado: 200.0279426574707 milisegundos
+
+
+10K Palabras
+
+Tiempo de generación de clave: 1957.824945449829 milisegundos
+Tiempo de lectura del archivo: 15.107154846191406 milisegundos
+Tiempo de cifrado: 44.46005821228027 milisegundos
+Tiempo de descifrado: 1872.9767799377441 milisegundos
+
+
+100k Palabras
+
+Tiempo de generación de clave: 551.9134998321533 milisegundos
+Tiempo de lectura del archivo: 22.135496139526367 milisegundos
+Tiempo de cifrado: 464.08796310424805 milisegundos
+Tiempo de descifrado: 19565.26517868042 milisegundos
+
+1 Millón de Palabras
+
+Tiempo de generación de clave: 5268.806934356689 milisegundos
+Tiempo de lectura del archivo: 28.33414077758789 milisegundos
+Tiempo de cifrado: 4425.344467163086 milisegundos
+Tiempo de descifrado: 188686.66744232178 milisegundos
+
+10 Millones de Palabras
+
+Tiempo de generación de clave: 4048.3593940734863 milisegundos
+Tiempo de lectura del archivo: 186.05518341064453 milisegundos
+Tiempo de cifrado: 44070.446252822876 milisegundos
+Tiempo de descifrado: 1964975.436449051 milisegundos
